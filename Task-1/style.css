@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Sections */
+section {
+  padding: 40px 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+/* About */
+.about img {
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 10px 0;
+}
+
+/* Skills */
+.skills ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+/* Projects */
+.project {
+  margin-bottom: 20px;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+/* Footer */
+footer {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 10px;
+}
